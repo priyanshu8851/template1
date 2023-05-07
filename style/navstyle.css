@@ -1,0 +1,7 @@
+*{margin: 0; padding: 0; text-decoration: none;}
+header .container{width: 1200px; max-width: 100%;}
+header .container .row{display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;}
+header .container .row .logo{flex-basis: 20%;}
+header .container .row ul{flex-basis: 40%; text-align: right;}
+header .container .row ul li{display: inline-block; }
+header .container .row ul li a{color: #000; padding: 8px 16px;}
